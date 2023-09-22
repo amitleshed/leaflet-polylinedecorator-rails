@@ -9,7 +9,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["amitleshed@icloud.com"]
   gem.description   = %q{A Leaflet plug-in to define and draw patterns on existing Polylines or along coordinate paths}
   gem.summary       = %q{Rails engine for the Leaflet.polylinedecorator code}
-  gem.homepage      = "homepage"
+  gem.homepage      = "https://rubygems.org/gems/leaflet-polylinedecorator-rails"
 
   gem.files = Dir["{lib,vendor}/**/*"] + ["LICENSE.txt", "README.md"]
   gem.require_paths = ["lib"]
