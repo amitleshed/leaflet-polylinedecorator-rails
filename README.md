@@ -1,5 +1,3 @@
-*Consider using rails-assets instead of this: https://rails-assets.org/#/components/leaflet.markercluster*
-
 # Leaflet-polylineDecorator for Rails
 
 Engine wrapper for the Leaflet PolylineDecorator library by Amit Leshed.
