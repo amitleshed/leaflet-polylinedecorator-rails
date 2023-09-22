@@ -5,7 +5,7 @@
 Engine wrapper for the Leaflet PolylineDecorator library by Amit Leshed.
 
 
-decorator link---
+https://github.com/bbecquet/Leaflet.PolylineDecorator
 
 ## Installation
 
@@ -25,12 +25,12 @@ Or install it yourself as:
 
 Provides the following assets:
 
-files provided
+leaflet.polylineDecorator.js
 
 
 and add the following to application.js
 
-    //= require jsfile
+    //= require leaflet-polylinedecorator-src
 
 You should require leaflet-polylinedecorator-rails after requiring the leaflet
 library itself. See https://github.com/axyjo/leaflet-rails.
@@ -38,4 +38,4 @@ library itself. See https://github.com/axyjo/leaflet-rails.
 ## License
 MIT License, full text of license see [here][License]
 
-[License]: https://github.com/scpike/leaflet-polylinedecorator-rails/blob/master/LICENSE.txt "LICENSE"
+[License]: https://github.com/amitleshed/leaflet-polylinedecorator-rails/blob/main/LICENSE.txt "LICENSE"
